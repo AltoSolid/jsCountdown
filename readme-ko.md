@@ -1,9 +1,7 @@
 # 카운트다운은
 이 간단한 카운트다운은 HTML하고 CSS하고 JavaScript를 연습하기 위해 개발되었다.
 
-이 코드는 이 비디오를 기반으로한다. 
-
-This code was based on the code of [Dev Ed](https://www.youtube.com/watch?v=Rib69h2DOxg).
+이 코드는 이 [비디오](https://www.youtube.com/watch?v=Rib69h2DOxg)를 기반으로한다 
 
 ## Readme의 언어 버전
 [English version]()
