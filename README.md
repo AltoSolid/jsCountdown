@@ -4,13 +4,14 @@ This simple countdown was develop to practice a little bit JavaScript, HTML and 
 This code was based on the code of [Dev Ed](https://www.youtube.com/watch?v=Rib69h2DOxg).
 
 ## Language version of readme
-[한국어 버전]()
-[Versión en español]()
+[한국어 버전](https://github.com/AltoSolid/jsCountdown/blob/main/readme-ko.md)
+
+[Versión en español](https://github.com/AltoSolid/jsCountdown/blob/main/readme-es.md)
 
 ## Result
-![Img1]()
+![Img1](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-1.png)
 
-![Img2]()
+![Img2](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-2.png)
 
 ## Technology used
 Just the classics: 

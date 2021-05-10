@@ -4,14 +4,14 @@
 이 코드는 이 [비디오](https://www.youtube.com/watch?v=Rib69h2DOxg)를 기반으로한다 
 
 ## Readme의 언어 버전
-[English version]()
+[English version](https://github.com/AltoSolid/jsCountdown)
 
-[Versión en español]()
+[Versión en español](https://github.com/AltoSolid/jsCountdown/blob/main/readme-es.md)
 
 ## 결과
-![Img1]()
+![Img1](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-1.png)
 
-![Img2]()
+![Img2](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-2.png)
 
 ## 사용된 기술
 "Classics"만

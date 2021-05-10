@@ -4,14 +4,14 @@ Este programa fue desarrollado para practicar un poco Html, Css y JavaScript.
 Este código está basado en el código de [Dev Ed](https://www.youtube.com/watch?v=Rib69h2DOxg).
 
 ## Versiones de idioma de readme
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/jsCountdown/blob/main/readme-ko.md)
 
-[English version]()
+[English version](https://github.com/AltoSolid/jsCountdown)
 
 ## Resultado
-![Img1]()
+![Img1](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-1.png)
 
-![Img2]()
+![Img2](https://github.com/AltoSolid/jsCountdown/blob/main/assets/Images/img-2.png)
 
 ## Tecnología utilizada
 Just the classics: 
